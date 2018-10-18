@@ -1,9 +1,7 @@
-var name = nick
-
 function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(name) {
+function happyHolidaysTo() {
   return 'Happy holidsays, ${name}!'
 }
