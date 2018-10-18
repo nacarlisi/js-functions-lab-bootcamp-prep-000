@@ -1,9 +1,9 @@
-va
+var name = nick
 
 function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(Nick) {
-  return 'string.happyHolidays(),${name}!'
+function happyHolidaysTo(name) {
+  return 'Happy holidsays, ${name}!'
 }
